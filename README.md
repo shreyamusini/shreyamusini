@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shreya Musini, a current Master's student at UCSD studying Computer Science. 
+I'm Shreya Musini, a current Master's student at UCSD studying Computer Science. I enjoy all things ML, AI, and Data Science. Feel free to reach out to me at shreya.musini@gmail.com!
 
 <!--
 **shreyamusini/shreyamusini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
