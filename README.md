@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Shreya Musini, a current Master's student at UCSD studying Computer Science. 
+
 <!--
 **shreyamusini/shreyamusini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
